@@ -208,6 +208,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/Todo.cs" timestamp="1550650237521">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/src/karma.conf.js" timestamp="1550630803315">
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="18" />
@@ -262,8 +267,8 @@
       <jump line="3" column="1" filename="G:/csharp/todoNG/ClientApp/src/app/models/Task.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TaskContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>TaskContext</text>
@@ -275,31 +280,31 @@
         <text encoding="base64">Y29uc3QgdGVzdE5nID0gKCkgPT4gewogIGxvZygnVGVzdGluZyBOZyBBcHAoS2FybWEpJy5ncmVlbik7CiAgcmV0dXJuIHN0YXJ0UHJvY2VzcygKICAgIGBjZCAke25nRGlyfSAmJiBucG0gcnVuIHRlc3RgLAogICAgJ25nIHRlc3QnLAogICAgJ2JsdWUnLAogICkKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0YXNrIGluIHRhc2tzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh0YXNrLlRvU3RyaW5nKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHRVQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVG9kbygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0YXNrIGluIHRhc2tzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh0YXNrLlRvU3RyaW5nKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHRhc2tzID0gY3R4LlRhc2tzLlRvTGlzdCgpOwogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGl0ZW0gaW4gdGFza3MpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoaXRlbS5Ub1N0cmluZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBHRVQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlldygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSW4gcHJvZHVjdGlvbiwgdGhlIEFuZ3VsYXIgZmlsZXMgd2lsbCBiZSBzZXJ2ZWQgZnJvbSB0aGlzIGRpcmVjdG9yeQo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIG9wdGlvbnMuQ2hlY2tDb25zZW50TmVlZGVkID0gY29udGV4dCA9PiB0cnVlOwogICAgICAgICAgICBvcHRpb25zLk1pbmltdW1TYW1lU2l0ZVBvbGljeSA9IFNhbWVTaXRlTW9kZS5Ob25lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHRhc2tzID0gY3R4LlRhc2tzLlRvTGlzdCgpOwogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGl0ZW0gaW4gdGFza3MpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoaXRlbS5Ub1N0cmluZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucy5DaGVja0NvbnNlbnROZWVkZWQgPSBjb250ZXh0ID0+IHRydWU7CiAgICAgICAgICAgIG9wdGlvbnMuTWluaW11bVNhbWVTaXRlUG9saWN5ID0gU2FtZVNpdGVNb2RlLk5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlldygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
