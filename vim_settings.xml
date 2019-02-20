@@ -47,6 +47,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/Task.cs" timestamp="1550634326721">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile.js" timestamp="1550630303224">
         <mark key="[" line="75" column="7" />
         <mark key="]" line="75" column="7" />
@@ -151,6 +157,12 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/DemoContext.cs" timestamp="1550633889011">
+        <mark key="[" line="7" column="85" />
+        <mark key="]" line="10" column="127" />
+        <mark key="^" line="10" column="127" />
+        <mark key="." line="10" column="127" />
+      </file>
       <file name="G:/csharp/todoNG/ClientApp/src/app/app.module.ts" timestamp="1550552296529">
         <mark key="[" line="23" column="70" />
         <mark key="]" line="24" column="23" />
@@ -186,6 +198,11 @@
         <mark key="]" line="28" column="18" />
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/todoNG.csproj" timestamp="1550633071527">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="G:/csharp/vidly/Views/Shared/_Layout.cshtml" timestamp="1550022120704">
         <mark key="[" line="21" column="0" />
@@ -231,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
@@ -243,31 +260,31 @@
         <text encoding="base64">Y29uc3QgdGVzdE5nID0gKCkgPT4gewogIGxvZygnVGVzdGluZyBOZyBBcHAoS2FybWEpJy5ncmVlbik7CiAgcmV0dXJuIHN0YXJ0UHJvY2VzcygKICAgIGBjZCAke25nRGlyfSAmJiBucG0gcnVuIHRlc3RgLAogICAgJ25nIHRlc3QnLAogICAgJ2JsdWUnLAogICkKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSgna2FybWEtY2hyb21lLWxhdW5jaGVyJyksCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwoWwogICAgCiAgXSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZygnTm90aGluZyBsZWZ0IHRvIGRvLi4uJy55ZWxsb3cpCg==</text>
+        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICAgICAgPERvdE5ldENsaVRvb2xSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmUuVG9vbHMuRG90TmV0IiBWZXJzaW9uPSIyLjIuMiIgLz4KICAgIDwvSXRlbUdyb3VwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICAgICAgPERvdE5ldENsaVRvb2xSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmUuVG9vbHMuRG90TmV0IiBWZXJzaW9uPSIyLjIuMCIgLz4KICAgIDwvSXRlbUdyb3VwPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSgna2FybWEtY2hyb21lLWxhdW5jaGVyJyksCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwoWwogICAgCiAgXSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9jID0gZXhlYyhgbm9kZSAke3BhdGguam9pbihfX2Rpcm5hbWUsICcuZGV2L2luZGV4LmpzJyl9YCkK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAocHJvYykgc3RvcEFwcCgpOwo=</text>
+        <text encoding="base64">ICAgIGxvZygnTm90aGluZyBsZWZ0IHRvIGRvLi4uJy55ZWxsb3cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
