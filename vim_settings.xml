@@ -76,11 +76,11 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/TodoController.cs" timestamp="1550648378024">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/TodoController.cs" timestamp="1550651093748">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TaskContext.cs" timestamp="1550648422174">
         <mark key="[" line="6" column="33" />
@@ -149,11 +149,23 @@
       <file name="/C# Console" timestamp="1550187005203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Startup.cs" timestamp="1550637970368">
-        <mark key="[" line="35" column="87" />
-        <mark key="]" line="35" column="87" />
-        <mark key="." line="35" column="87" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Startup.cs" timestamp="1550651324785">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="36" />
+        <mark key="." line="57" column="36" />
+        <mark key="^" line="57" column="36" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TodoContext.cs" timestamp="1550651118583">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/User.cs" timestamp="1550651481936">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="G:/csharp/vidly/Views/Customers/CustomerInfo.cshtml" timestamp="1550184294129">
         <mark key="[" line="7" column="20" />
@@ -267,44 +279,44 @@
       <jump line="3" column="1" filename="G:/csharp/todoNG/ClientApp/src/app/models/Task.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>TaskContext</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdE5nID0gKCkgPT4gewogIGxvZygnVGVzdGluZyBOZyBBcHAoS2FybWEpJy5ncmVlbik7CiAgcmV0dXJuIHN0YXJ0UHJvY2VzcygKICAgIGBjZCAke25nRGlyfSAmJiBucG0gcnVuIHRlc3RgLAogICAgJ25nIHRlc3QnLAogICAgJ2JsdWUnLAogICkKfTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGJTZXQ8VG9kbz4gVG9kb3MgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbm5lY3Rpb24gPSAiSG9zdD0xMjcuMC4wLjE7UG9ydD01NDMyO0RhdGFiYXNlPVRhc2tzO1VzZXIgSWQ9cG9zdGdyZXM7UGFzc3dvcmQ9cGFzc3dvcmQiOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRFbnRpdHlGcmFtZXdvcmtOcGdzcWwoKQogICAgICAgICAgICAgICAgLkFkZERiQ29udGV4dDxUb2RvQ29udGV4dD4KICAgICAgICAgICAgICAgICAgICAob3B0aW9ucyA9PiBvcHRpb25zLlVzZU5wZ3NxbChjb25uZWN0aW9uKSkKICAgICAgICAgICAgICAgIC5CdWlsZFNlcnZpY2VQcm92aWRlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVG9kbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0YXNrIGluIHRhc2tzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh0YXNrLlRvU3RyaW5nKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHRVQK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVG9kbygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciB0YXNrIGluIHRhc2tzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh0YXNrLlRvU3RyaW5nKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBHRVQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHRhc2tzID0gY3R4LlRhc2tzLlRvTGlzdCgpOwogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGl0ZW0gaW4gdGFza3MpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoaXRlbS5Ub1N0cmluZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlldygpOwo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
