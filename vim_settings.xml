@@ -47,11 +47,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile.js" timestamp="1550630114756">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="6" />
-        <mark key="^" line="50" column="6" />
-        <mark key="." line="50" column="6" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile.js" timestamp="1550630303224">
+        <mark key="[" line="75" column="7" />
+        <mark key="]" line="75" column="7" />
+        <mark key="^" line="75" column="7" />
+        <mark key="." line="75" column="7" />
       </file>
       <file name="G:/csharp/vidly/Views/Customers/Index.cshtml" timestamp="1550184592453">
         <mark key="[" line="23" column="49" />
@@ -145,8 +145,8 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/package.json" timestamp="1550627799159">
-        <mark key="[" line="7" column="9" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/package.json" timestamp="1550631074011">
+        <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
@@ -180,6 +180,12 @@
         <mark key="]" line="5" column="1" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/src/karma.conf.js" timestamp="1550630803315">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="G:/csharp/vidly/Views/Shared/_Layout.cshtml" timestamp="1550022120704">
         <mark key="[" line="21" column="0" />
@@ -225,43 +231,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dotnet</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>dotnet</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbmdEaXIgPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnQ2xpZW50QXBwJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgdGVzdE5nID0gKCkgPT4gewogIGxvZygnVGVzdGluZyBOZyBBcHAoS2FybWEpJy5ncmVlbik7CiAgcmV0dXJuIHN0YXJ0UHJvY2VzcygKICAgIGBjZCAke25nRGlyfSAmJiBucG0gcnVuIHRlc3RgLAogICAgJ25nIHRlc3QnLAogICAgJ2JsdWUnLAogICkKfTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmVxdWlyZSgna2FybWEtY2hyb21lLWxhdW5jaGVyJyksCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5hbGwoWwogICAgCiAgXSk=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICB9KQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxvZygnTm90aGluZyBsZWZ0IHRvIGRvLi4uJy55ZWxsb3cpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJlc29sdmUoKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBwcm9jID0gZXhlYyhgbm9kZSAke3BhdGguam9pbihfX2Rpcm5hbWUsICcuZGV2L2luZGV4LmpzJyl9YCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpZiAocHJvYykgc3RvcEFwcCgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBpZiAocHJvYykgc3RvcEFwcCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
