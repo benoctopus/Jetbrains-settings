@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/scripts/db-compose-dev.yml" timestamp="1550624303086">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="G:/csharp/vidly/Models/Customer.cs" timestamp="1550183308301">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="4" column="31" />
@@ -26,20 +21,25 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/scripts/start-dev-database.sh" timestamp="1550622434320">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="2" column="83" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/todoNG.csproj" timestamp="1550633071527">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/IdentityController.cs" timestamp="1550694446797">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/rustyboi/src/main.rs" timestamp="1555178547918">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="G:/csharp/vidly/Program.cs" timestamp="1550014141190">
         <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/package.json" timestamp="1550631074011">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/TaskController.cs" timestamp="1550640686158">
         <mark key="[" line="22" column="23" />
@@ -47,10 +47,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/DBContext.cs" timestamp="1550636609736">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/TodoController.cs" timestamp="1551832818402">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="G:/csharp/vidly/ViewModels/ManyMoviesViewModel.cs" timestamp="1550026224885">
         <mark key="[" line="9" column="49" />
@@ -64,17 +65,23 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/scripts/run-dev.sh" timestamp="1550624032392">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/scripts/start-dev-database.sh" timestamp="1550622434320">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="2" column="83" />
+        <mark key="." line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Models/Task.cs" timestamp="1550641454655">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
-      </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile.js" timestamp="1550630303224">
-        <mark key="[" line="75" column="7" />
-        <mark key="]" line="75" column="7" />
-        <mark key="^" line="75" column="7" />
-        <mark key="." line="75" column="7" />
       </file>
       <file name="G:/csharp/vidly/Views/Customers/Index.cshtml" timestamp="1550184592453">
         <mark key="[" line="23" column="49" />
@@ -82,22 +89,16 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/TodoController.cs" timestamp="1551832818402">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="11" column="40" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/DBContext.cs" timestamp="1550636609736">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TaskContext.cs" timestamp="1550648422174">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/angular.json" timestamp="1550624350143">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Startup.cs" timestamp="1550657837543">
+        <mark key="[" line="65" column="50" />
+        <mark key="]" line="65" column="58" />
+        <mark key="." line="65" column="58" />
+        <mark key="^" line="65" column="58" />
       </file>
       <file name="G:/csharp/vidly/Views/Shared/_navbar.cshtml" timestamp="1550025821601">
         <mark key="[" line="0" column="101" />
@@ -110,20 +111,44 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/DemoContext.cs" timestamp="1550633889011">
+        <mark key="[" line="7" column="85" />
+        <mark key="]" line="10" column="127" />
+        <mark key="^" line="10" column="127" />
+        <mark key="." line="10" column="127" />
+      </file>
       <file name="/JavaScript Console" timestamp="1550694465230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/scripts/run-dev.sh" timestamp="1550624032392">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile.js" timestamp="1550630303224">
+        <mark key="[" line="75" column="7" />
+        <mark key="]" line="75" column="7" />
+        <mark key="^" line="75" column="7" />
+        <mark key="." line="75" column="7" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/User.cs" timestamp="1550692736211">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="G:/csharp/vidly/Models/Movie.cs" timestamp="1550183339884">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
         <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TodoContext.cs" timestamp="1550651118583">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile" timestamp="1550626192587">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="53" />
       </file>
       <file name="G:/csharp/vidly/ViewModels/IObjectsWithNameProp.cs" timestamp="1550180353219">
         <mark key="[" line="2" column="11" />
@@ -155,23 +180,17 @@
       <file name="/C# Console" timestamp="1550187005203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Startup.cs" timestamp="1550657837543">
-        <mark key="[" line="65" column="50" />
-        <mark key="]" line="65" column="58" />
-        <mark key="." line="65" column="58" />
-        <mark key="^" line="65" column="58" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/src/karma.conf.js" timestamp="1550630803315">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TodoContext.cs" timestamp="1550651118583">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/User.cs" timestamp="1550692736211">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Controllers/IdentityController.cs" timestamp="1550694446797">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="G:/csharp/todoNG/ClientApp/src/app/models/index.ts" timestamp="1550571431893">
         <mark key="[" line="0" column="25" />
@@ -185,18 +204,6 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/package.json" timestamp="1550631074011">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/DemoContext.cs" timestamp="1550633889011">
-        <mark key="[" line="7" column="85" />
-        <mark key="]" line="10" column="127" />
-        <mark key="^" line="10" column="127" />
-        <mark key="." line="10" column="127" />
-      </file>
       <file name="G:/csharp/vidly/Views/Movies/Index.cshtml" timestamp="1550183701960">
         <mark key="[" line="29" column="33" />
         <mark key="]" line="29" column="33" />
@@ -209,16 +216,21 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/scripts/db-compose-dev.yml" timestamp="1550624303086">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="G:/csharp/vidly/Views/Shared/_tableList.cshtml" timestamp="1550181346449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile" timestamp="1550626192587">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="53" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TaskContext.cs" timestamp="1550648422174">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="54" />
       </file>
       <file name="G:/csharp/todoNG/ClientApp/src/styles.css" timestamp="1550550359480">
         <mark key="[" line="2" column="0" />
@@ -226,21 +238,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/Todo.cs" timestamp="1550650237521">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/src/karma.conf.js" timestamp="1550630803315">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-      </file>
-      <file name="$USER_HOME$/localCode/csharp/todoNG/todoNG.csproj" timestamp="1550633071527">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/localCode/csharp/todoNG/ClientApp/angular.json" timestamp="1550624350143">
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
       </file>
       <file name="G:/csharp/vidly/Views/Shared/_Layout.cshtml" timestamp="1550022120704">
         <mark key="[" line="21" column="0" />
@@ -261,6 +262,11 @@
       </file>
       <file name="G:/csharp/todoNG/ClientApp/src/app/home/home.css" timestamp="1550551968410">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/localCode/csharp/todoNG/Models/Todo.cs" timestamp="1550650237521">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -286,43 +292,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>::mem</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>::mem</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFVzZXJuYW1lIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7fSB7fSIsIGEsIGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vQ29udGVudCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgIGxldCBzOlN0cmluZyA9IGEudG9fc3RyaW5nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vQ29udGVudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBvcHRpb25zLkxvZ2luUGF0aCA9ICIvSWRlbnRpdHkvQWNjb3VudC9Mb2dpbiI7CiAgICAgICAgICAgICAgICBvcHRpb25zLkFjY2Vzc0RlbmllZFBhdGggPSAiL0lkZW50aXR5L0FjY291bnQvQWNjZXNzRGVuaWVkIjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbm5lY3Rpb24gPSAiSG9zdD0xMjcuMC4wLjE7UG9ydD01NDMyO0RhdGFiYXNlPVRhc2tzO1VzZXIgSWQ9cG9zdGdyZXM7UGFzc3dvcmQ9cGFzc3dvcmQiOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRFbnRpdHlGcmFtZXdvcmtOcGdzcWwoKQogICAgICAgICAgICAgICAgLkFkZERiQ29udGV4dDxUb2RvQ29udGV4dD4KICAgICAgICAgICAgICAgICAgICAob3B0aW9ucyA9PiBvcHRpb25zLlVzZU5wZ3NxbChjb25uZWN0aW9uKSkKICAgICAgICAgICAgICAgIC5CdWlsZFNlcnZpY2VQcm92aWRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBvcHRpb25zLkxvZ2luUGF0aCA9ICIvSWRlbnRpdHkvQWNjb3VudC9Mb2dpbiI7CiAgICAgICAgICAgICAgICBvcHRpb25zLkFjY2Vzc0RlbmllZFBhdGggPSAiL0lkZW50aXR5L0FjY291bnQvQWNjZXNzRGVuaWVkIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbm5lY3Rpb24gPSAiSG9zdD0xMjcuMC4wLjE7UG9ydD01NDMyO0RhdGFiYXNlPVRhc2tzO1VzZXIgSWQ9cG9zdGdyZXM7UGFzc3dvcmQ9cGFzc3dvcmQiOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRFbnRpdHlGcmFtZXdvcmtOcGdzcWwoKQogICAgICAgICAgICAgICAgLkFkZERiQ29udGV4dDxUb2RvQ29udGV4dD4KICAgICAgICAgICAgICAgICAgICAob3B0aW9ucyA9PiBvcHRpb25zLlVzZU5wZ3NxbChjb25uZWN0aW9uKSkKICAgICAgICAgICAgICAgIC5CdWlsZFNlcnZpY2VQcm92aWRlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVG9kbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
