@@ -17,6 +17,12 @@
       <file name="G:/csharp/vidly/Program.cs" timestamp="1550014141190">
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/code/rust/guessing_game/Cargo.toml" timestamp="1555296970953">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/package.json" timestamp="1550631074011">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="15" />
@@ -82,11 +88,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/code/rust/guessing_game/src/main.rs" timestamp="1555288343623">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="23" column="51" />
+      <file name="$USER_HOME$/code/rust/guessing_game/src/main.rs" timestamp="1555296789525">
+        <mark key="[" line="31" column="57" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
       </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TodoContext.cs" timestamp="1550651118583">
         <mark key="[" line="8" column="27" />
@@ -303,44 +309,44 @@
       <jump line="3" column="1" filename="G:/csharp/todoNG/ClientApp/src/app/models/Task.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30ge30iLCBnbiwgd24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>gn</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7fSB7fSIsIGEsIGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZ24gPSBnLm5leHQoKS51bndyYXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBsZW4gPSB3b3JkLmxlbigpIDwgZ3Vlc3MubGVuKCkgPyAubGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30ge30iLCBnbiwgd24pOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcihpOyBpIDwgd29yZC5sZW4oKTsgaSArPSAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgd24gPSB3Lm5leHQoKS51bndyYXAoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdpdEBnaXRodWIuY29tOmp1bGkxL3J1c3Qtd2Vic2VydmVyLmdpdGxldCBtdXQgaSA9IDAK</text>
+        <text encoding="base64">ICAgIGxldCBsZW4gPSB3b3JkLmxlbigpIDwgZ3Vlc3MubGVuKCkgPyAubGVuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ7fSIsIHdvcmQubGVuKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJ5b3UgZ3Vlc3NlZDoge30iLCBndWVzcyk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgaSA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcihpOyBpIDwgd29yZC5sZW4oKTsgaSArPSAxKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuZXhwZWN0KCJmYWlsZWQgdG8gcmVhZCBsaW5lIikK</text>
+        <text encoding="base64">ICAgIGdpdEBnaXRodWIuY29tOmp1bGkxL3J1c3Qtd2Vic2VydmVyLmdpdGxldCBtdXQgaSA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
