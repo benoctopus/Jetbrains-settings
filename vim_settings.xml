@@ -82,6 +82,12 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/code/rust/guessing_game/src/main.rs" timestamp="1555288343623">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="23" column="51" />
+      </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Models/TodoContext.cs" timestamp="1550651118583">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="31" />
@@ -298,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
@@ -310,31 +316,31 @@
         <text encoding="base64">ICAgIHByaW50bG4hKCJ7fSB7fSIsIGEsIGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBsZW4gPSB3b3JkLmxlbigpIDwgZ3Vlc3MubGVuKCkgPyAubGVuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBzOlN0cmluZyA9IGEudG9fc3RyaW5nKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vQ29udGVudCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxldCBtdXQgaSA9IDA7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvcihpOyBpIDwgd29yZC5sZW4oKTsgaSArPSAxKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdpdEBnaXRodWIuY29tOmp1bGkxL3J1c3Qtd2Vic2VydmVyLmdpdGxldCBtdXQgaSA9IDAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ7fSIsIHdvcmQubGVuKCkpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBvcHRpb25zLkxvZ2luUGF0aCA9ICIvSWRlbnRpdHkvQWNjb3VudC9Mb2dpbiI7CiAgICAgICAgICAgICAgICBvcHRpb25zLkFjY2Vzc0RlbmllZFBhdGggPSAiL0lkZW50aXR5L0FjY291bnQvQWNjZXNzRGVuaWVkIjsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJ5b3UgZ3Vlc3NlZDoge30iLCBndWVzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbm5lY3Rpb24gPSAiSG9zdD0xMjcuMC4wLjE7UG9ydD01NDMyO0RhdGFiYXNlPVRhc2tzO1VzZXIgSWQ9cG9zdGdyZXM7UGFzc3dvcmQ9cGFzc3dvcmQiOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRFbnRpdHlGcmFtZXdvcmtOcGdzcWwoKQogICAgICAgICAgICAgICAgLkFkZERiQ29udGV4dDxUb2RvQ29udGV4dD4KICAgICAgICAgICAgICAgICAgICAob3B0aW9ucyA9PiBvcHRpb25zLlVzZU5wZ3NxbChjb25uZWN0aW9uKSkKICAgICAgICAgICAgICAgIC5CdWlsZFNlcnZpY2VQcm92aWRlcigpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAuZXhwZWN0KCJmYWlsZWQgdG8gcmVhZCBsaW5lIikK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
