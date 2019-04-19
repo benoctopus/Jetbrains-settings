@@ -65,11 +65,11 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/bags/main.java" timestamp="1555631446520">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/bags/main.java" timestamp="1555637528190">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Models/DBContext.cs" timestamp="1550636609736">
         <mark key="[" line="3" column="5" />
@@ -81,6 +81,19 @@
         <mark key="]" line="65" column="58" />
         <mark key="." line="65" column="58" />
         <mark key="^" line="65" column="58" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bags/bags/Bag.java" timestamp="1555637779559">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/bags/Baggable.java" timestamp="1555637370608">
+        <mark key="'" line="7" column="3" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/gulpfile.js" timestamp="1550630303224">
         <mark key="[" line="75" column="7" />
@@ -250,6 +263,12 @@
       <file name="/JavaScript Console" timestamp="1550694465230">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/bags/Bag.java" timestamp="1555637365072">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="G:/csharp/vidly/Models/Movie.cs" timestamp="1550183339884">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="23" />
@@ -325,13 +344,14 @@
       <jump line="16" column="25" filename="G:/csharp/todoNG/ClientApp/src/app/home/home.component.ts" />
       <jump line="17" column="22" filename="G:/csharp/todoNG/ClientApp/src/app/home/home.component.ts" />
       <jump line="3" column="1" filename="G:/csharp/todoNG/ClientApp/src/app/models/Task.ts" />
+      <jump line="5" column="3" filename="$USER_HOME$/IdeaProjects/bags/Baggable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
@@ -340,31 +360,31 @@
         <text encoding="base64">ICAgICAgICBsZXQgZ24gPSBnLm5leHQoKS51bndyYXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I1tnZXQoIi8iKV0K</text>
+        <text encoding="base64">cGFja2FnZSBtYWluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1ttYWNyb10K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS4qCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Zm4gbWFpbigpIHsKICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cn0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">I1tnZXQoIi8iKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1ttYWNyb10K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30ge30iLCBnbiwgd24pOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Zm4gbWFpbigpIHsKICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30ge30iLCBnbiwgd24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgd24gPSB3Lm5leHQoKS51bndyYXAoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBsZW4gPSB3b3JkLmxlbigpIDwgZ3Vlc3MubGVuKCkgPyAubGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
