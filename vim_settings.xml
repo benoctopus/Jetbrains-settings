@@ -65,6 +65,12 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/bags/main.java" timestamp="1555631446520">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="$USER_HOME$/localCode/csharp/todoNG/Models/DBContext.cs" timestamp="1550636609736">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="5" column="0" />
@@ -321,11 +327,11 @@
       <jump line="3" column="1" filename="G:/csharp/todoNG/ClientApp/src/app/models/Task.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I1tnZXQoIi8iKV0K</text>
+      <register name="&quot;" type="4">
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>_use</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
